@@ -44,7 +44,7 @@ The Face Recognition Attendance System is a project that aims to automate the at
 2. Navigate to the project directory:
 
    ```bash
-   cd face-recognition-attendance
+   cd FaceRecognition-main
    ```
 
 
