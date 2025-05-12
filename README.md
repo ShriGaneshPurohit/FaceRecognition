@@ -32,13 +32,17 @@ The Face Recognition Attendance System is a project that aims to automate the at
 - pandas
 - mysqlconnector
 
+## 📱 Screenshots
+
+> ![Screenshot_1](Outputs/ScreenShoots.gif)
+
 
 ## Installation
 
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/face-recognition-attendance.git
+   git clone https://github.com/ShriGaneshPurohit/FaceRecognition.git
    ```
 
 2. Navigate to the project directory:
